@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    font-family: sans-serif;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.container-fluid{
+text-align: center;
+}
+.col-md-10 h1{
+    text-align: center;
+}
